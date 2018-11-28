@@ -233,7 +233,7 @@ public class Marven extends javax.swing.JFrame {
         //</editor-fold>
  
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
+        java.awt.EventQueue.invokeLater(new () {
             public void run() {
                 new Marven().setVisible(true);
             }
