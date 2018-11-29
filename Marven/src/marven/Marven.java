@@ -56,7 +56,7 @@ public class Marven extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Mini Encuesta");
  
-        rdbWindows.setText("Windows");
+        rdbWindows.setText("Windows 10");
  
         rdbLinux.setText("Linux");
  
